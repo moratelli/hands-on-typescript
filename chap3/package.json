@@ -1,0 +1,10 @@
+{
+  "name": "chap3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "typescript": "^4.2.4"
+  }
+}
